@@ -1,0 +1,20 @@
+Origin: kaucs
+Label: CS Dept. @ Karlstad University Github
+Suite: stable
+Codename: stretch
+Date: Tue, 30 Apr 2019 13:50:15 UTC
+Architectures: amd64
+Components: main
+Description: Debian AMD64 packages hosted on KAUCS github repository
+MD5Sum:
+ 39b40695bf7019f5781a788186d433e4 4129 main/binary-amd64/Packages
+ a59590948011a73e78785764e90ab897 1822 main/binary-amd64/Packages.gz
+ 58d8220d59c82cf164e46918df40bc39 180 main/binary-amd64/Release
+SHA1:
+ 71e5ed1e48db7d0e3edef7a45a065ab539c69136 4129 main/binary-amd64/Packages
+ 77b62b3b413ac95a14ff3b9bbe53f4d642f9c097 1822 main/binary-amd64/Packages.gz
+ bee042633f7c9b02e678c0a4391bc3d345a490f3 180 main/binary-amd64/Release
+SHA256:
+ 80efbea9b64e2e057ef0c092684c74aad6d863b4ec7af55b4c090e257868c2f7 4129 main/binary-amd64/Packages
+ 4adcc13c8253f5a98fbcf9d78a6e8ec0308966567cb1956bed52dcb5ee77da98 1822 main/binary-amd64/Packages.gz
+ 2c7a3fbfe5ace3b2e5f987dbca50b0e2417c704690085e11a43a58a89460477f 180 main/binary-amd64/Release

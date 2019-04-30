@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: kaucs
+Label: CS Dept. @ Karlstad University Github
+Architecture: amd64
+Description: Debian AMD64 packages hosted on KAUCS github repository
